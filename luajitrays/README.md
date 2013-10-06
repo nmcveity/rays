@@ -1,4 +1,3 @@
-
 LuaJIT version
 ==============
 
@@ -6,11 +5,11 @@ These times were taken on a i7-2640M @ 2.8GHz with 8g running Ubuntu 12.10.
 
 The version of LuaJIT was the 2.1.0-alpha.  Last commit:
 
-  commit 47df3ae5136521da96767e6daed4cdd241de2fa6
-  Author: Mike Pall <mike>
-  Date:   Fri Sep 20 11:36:33 2013 +0200
+	  commit 47df3ae5136521da96767e6daed4cdd241de2fa6
+	  Author: Mike Pall <mike>
+	  Date:   Fri Sep 20 11:36:33 2013 +0200
 
-      Properly fix loading of embedded bytecode.
+	      Properly fix loading of embedded bytecode.
 
 Results
 -------
